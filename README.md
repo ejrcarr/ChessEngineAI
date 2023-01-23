@@ -12,9 +12,8 @@ I also wanted more experience with OOP and SOLID principles.
 <br />
 <br />
 
-<!--![](images/chessboard.png)-->
 <p align='center'>
-  <img src='https://github.com/ejrcarr/ejrcarr/raw/main/images/chessboard.png' width="300" height="250"> <br />
+  <img src='https://user-images.githubusercontent.com/110308975/214087508-d97e13e5-2ad0-4836-873e-06f00ea0ed29.gif' width="300" height="250"> <br />
 </p>
 
 ## Features
