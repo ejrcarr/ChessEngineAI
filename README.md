@@ -3,7 +3,9 @@
 ## Context
 I created a Chess Engine AI that uses over 2,680,000+ past chess games from previous professional games to use as book moves. The engine uses a <a href='https://en.wikipedia.org/wiki/Minimax'>minimax algorithm</a> to determine the best next move for the computer. Specifically, the engine calculates best next move based on piece value, mobility, development, king safety, and pawn structure. The application is coded in Java, using Swing as the graphical user interface, and MySQL as the local database.
 
-Making this game, I familiarized myself with Object-Oriented Programming, SOLID priciples, and the Swing library. 
+Making this game, I familiarized myself with Object-Oriented Programming, SOLID priciples, and the Swing library.
+
+I chose Java to narrow my focus to a programming language that encourages OOP, and I feel that chess is a game that would benefit a lot from a object-oriented design.
 
 ## Why?
 I enjoy playing chess in my free time which led to me to create a desktop app with <em>Java/Swing/MySQL</em>. Since most chess platforms have paywalls, I decided to create my own application to analyze my past games. The design was modeled after chess.com's website and the GUI works similar as well.  
