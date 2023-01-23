@@ -20,9 +20,9 @@ I also wanted more experience with OOP and SOLID principles.
 ### Game Aspects
 The GUI follows chess procedure, highlights legal moves for a clicked piece, indicates taken pieces, and displays chess notation of game. Promoting to queen is allowed. En passant is also allowed. On click, the piece is highlighted to move to the next square the player clicks. 
 ### Options Panel
-#### File
-File tab allows for the player to quit the game or load a PGN file to create a new game. 
-#### Preferences
-The preferences tab allows the player to choose if they want to highlight legal moves on click, if they want to flip the board, or if they want to use book moves. Flipping board does not change which side the player plays on. Unselecting use book moves would not allow the computer to use the local database of previous games to determine theory. 
-#### Options
-In the options tab, you can create a new game (hotkey N), undo the last move (hotkey Z), or setup game. With the setup option, you can determine how far moves in advance the algorithm calculates and if white or black is a player or computer. 
+- #### File
+  - File tab allows for the player to quit the game or load a PGN file to create a new game. 
+- #### Preferences
+  - The preferences tab allows the player to choose if they want to highlight legal moves on click, if they want to flip the board, or if they want to use book moves. Flipping board does not change which side the player plays on. Unselecting use book moves would not allow the computer to use the local database of previous games to determine theory. 
+- #### Options
+  - In the options tab, you can create a new game (hotkey N), undo the last move (hotkey Z), or setup game. With the setup option, you can determine how far moves in advance the algorithm calculates and if white or black is a player or computer. 
